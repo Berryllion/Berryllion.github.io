@@ -1,0 +1,32 @@
+body {
+    display: flex;
+}
+
+aside {
+    border: 1px solid var(--primary);
+}
+
+aside ul {
+    list-style: none;
+    margin: unset;
+}
+
+/* Google Fonts Redacted Script */
+
+.redacted-script-light {
+    font-family: "Redacted Script", cursive;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.redacted-script-regular {
+    font-family: "Redacted Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.redacted-script-bold {
+    font-family: "Redacted Script", cursive;
+    font-weight: 700;
+    font-style: normal;
+}

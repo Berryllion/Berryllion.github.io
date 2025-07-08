@@ -1,0 +1,20 @@
+:root {
+    --primary: #b8e2e4;
+    --secondary: #e4d5b8;
+}
+
+body {
+    background-color: #191d1d;
+    color: white;
+    margin: 2rem;
+    font-family: "Space Mono";
+}
+
+a {
+    color: var(--primary);
+    font-family: "Kode Mono";
+}
+a:hover {
+    color: var(--secondary);
+    text-decoration: none;
+}
