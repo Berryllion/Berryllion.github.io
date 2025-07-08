@@ -2,11 +2,16 @@ header {
     border: 1px solid var(--mint);
     width: 100%;
 }
-header ul {
-    list-style: none;
-    margin: unset;
-}
 
 main {
     height: 100%;
+}
+
+#presentation-header {
+    display: flex;
+    padding: 1rem;
+}
+
+#presentation-header ul {
+    padding: none;
 }
