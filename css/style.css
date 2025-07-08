@@ -6,10 +6,9 @@
 body {
     background-color: #191d1d;
     color: white;
-    margin: 2rem;
     font-family: "Space Mono";
     width: 50vw;
-    margin: auto;
+    margin: 0 auto;
 }
 
 a {

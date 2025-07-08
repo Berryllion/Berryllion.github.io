@@ -9,10 +9,6 @@ header {
     padding: 0;
 }
 
-#presentation-header {
-    display: flex;
-}
-
 #presentation-header ul {
     padding-left: 1em;
 }
