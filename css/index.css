@@ -1,17 +1,18 @@
 header {
     border: 1px solid var(--mint);
     width: 100%;
+    padding: 1rem;
 }
 
-main {
-    height: 100%;
+#navigation-header ul {
+    list-style-type: none;
+    padding: 0;
 }
 
 #presentation-header {
     display: flex;
-    padding: 1rem;
 }
 
 #presentation-header ul {
-    padding: none;
+    padding-left: 1em;
 }
