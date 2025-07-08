@@ -1,12 +1,17 @@
 header {
     border: 1px solid var(--mint);
     width: 100%;
-    padding: 1rem;
+}
+
+ul {
+    margin: 0;
 }
 
 #navigation-header ul {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    justify-content: space-around;
 }
 
 #presentation-header ul {
