@@ -1,2 +1,7 @@
 # Berryllion.github.io
-my website :)
+my website :]
+
+## Pages
+- `/`
+- `/tech`
+- `/credits`
